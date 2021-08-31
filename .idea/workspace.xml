@@ -11,6 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ProjectId" id="1xVNah2b5cJzPyzeuzJ0TD50NUR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -24,6 +25,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.scopes" />
   </component>
   <component name="RunManager">
     <configuration name="TcpRandomPasswordGenaratingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
@@ -46,10 +48,23 @@
       <workItem from="1630436880778" duration="272000" />
       <workItem from="1630437934667" duration="158000" />
       <workItem from="1630438264644" duration="93000" />
+      <workItem from="1630438363080" duration="303000" />
     </task>
+    <task id="LOCAL-00001" summary="-">
+      <created>1630438619141</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1630438619141</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="-" />
+    <option name="LAST_COMMIT_MESSAGE" value="-" />
   </component>
 </project>
