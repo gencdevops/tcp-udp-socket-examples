@@ -11,7 +11,7 @@ import java.net.Socket;
 import java.util.concurrent.ExecutorService;
 
 @Component
-public class RandomPasswordServerRunner implements ApplicationRunner {
+public class    RandomPasswordServerRunner implements ApplicationRunner {
     private final ServerSocket serverSocket;
     private final ExecutorService executorService;
 
